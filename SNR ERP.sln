@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNR ERP", "SNR ERP\SNR ERP.csproj", "{484E7562-500A-4342-A999-99AF26F3BFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484E7562-500A-4342-A999-99AF26F3BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484E7562-500A-4342-A999-99AF26F3BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484E7562-500A-4342-A999-99AF26F3BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484E7562-500A-4342-A999-99AF26F3BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA3B58F-DEE5-469F-8F61-B58713986BB3}
+	EndGlobalSection
+EndGlobal
